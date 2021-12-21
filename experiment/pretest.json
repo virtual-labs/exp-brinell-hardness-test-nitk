@@ -2,38 +2,136 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The ability of the material to resist stress without failure is called",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Strength",
+        "b": "Hardness",
+        "c": "Stiffness",
+        "d": "Toughness"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "During hardness test the indenter is usually a",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ball indenter",
+        "b": "Pyramid indenter",
+        "c": "Cone indenter",
+        "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "In Brinell hardness test,the diameter of ball used to test copper specimen is",
+      "answers": {
+        "a": "1 mm",
+        "b": "3 mm",
+        "c": "5 mm",
+        "d": "7 mm"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "Property of hardness of material is resistance to",
+      "answers": {
+        "a": "Scratching",
+        "b": "Wear",
+        "c": "Indentation",
+        "d": "All the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "The ratio of test load to surface area of indentation in this test is",
+      "answers": {
+        "a": "Shear strength of material",
+        "b": "Indentation number",
+        "c": "Brinell hardness number",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "The value of distance between successive indentation is always lesser than distance of centre of indentation from edge of specimen. (Say true or false)",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Diameter of impression is found by",
+      "answers": {
+        "a": "Micrometer",
+        "b": "Dial gauge",
+        "c": "Scale",
+        "d": "Microscopic observation"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Select the correct statement from following",
+      "answers": {
+        "a": "A brittle materials has no plastic zone",
+        "b": "A ductile material has large plastic zone",
+        "c": "A rigid material has no plastic zone",
+        "d": "All are correct"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
     }
   ]
 }
