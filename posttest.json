@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The property of a material that resists penetration or indentation by means of abrasion or scratching is known as",
+      "answers": {
+        "a": "Strength",
+        "b": "Hardness",
+        "c": "Toughness",
+        "d": "Brittleness"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The indentor used in the test is usually a",
+      "answers": {
+        "a": "Hardened steel ball",
+        "b": "Copper ball",
+        "c": "Diamond point",
+        "d": "Silver ball"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Time up to which load has to be maintained in experiment for mild steel is",
+      "answers": {
+        "a": "10 to 15 seconds",
+        "b": "5 to 10 seconds",
+        "c": "15 to 20 seconds",
+        "d": "20 to 25 seconds"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "What is the minimum thickness of the specimen required?",
+      "answers": {
+        "a": "5 times depth of indentation",
+        "b": "8 times depth of indentation",
+        "c": "15 times depth of indentation",
+        "d": "20 times depth of indentation"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "What is the diameter of the impression?",
+      "answers": {
+        "a": "1.3D - 1.5D",
+        "b": "0.1D",
+        "c": "0.2D - 0.7D",
+        "d": "0.7D - 1.3D"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+
+/home/runner/work/exp-brinell-hardness-test-nitk/exp-brinell-hardness-test-nitk/experiment/simulation/js/bt.js
+     1:31   warning  'a' is defined but never used                   no-unused-vars
+     1:38   warning  'firsttime' is assigned a value but never used  no-unused-vars
+     1:77   warning  'avg' is defined but never used                 no-unused-vars
+     1:86   warning  'i' is assigned a value but never used          no-unused-vars
+     1:95   warning  'count1' is assigned a value but never used     no-unused-vars
+     1:104  warning  'count2' is assigned a value but never used     no-unused-vars
+     7:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+     8:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+     9:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+    10:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+    11:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+    12:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+    13:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+    14:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+    29:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+    30:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+    31:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+    32:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+    33:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+    34:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+    35:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+    50:10   warning  'navNext' is defined but never used             no-unused-vars
+    52:11   warning  'temp' is not defined                           no-undef
+    52:21   warning  'temp' is not defined                           no-undef
+    52:33   warning  'temp' is not defined                           no-undef
+    54:44   warning  'temp' is not defined                           no-undef
+    56:6    warning  'simsubscreennum' is not defined                no-undef
+    58:40   warning  'simsubscreennum' is not defined                no-undef
+    73:20   warning  'myInt' is not defined                          no-undef
+    77:5    warning  'looper' is assigned a value but never used     no-unused-vars
+    99:10   warning  'checkval' is defined but never used            no-unused-vars
+   101:2    warning  'n' is not defined                              no-undef
+   104:5    warning  'n' is not defined                              no-undef
+   110:62   warning  'n' is not defined                              no-undef
+   236:10   warning  'touchScroll' is defined but never used         no-unused-vars
+   236:22   warning  'event' is defined but never used               no-unused-vars
+   241:17   warning  '$' is not defined                              no-undef
+   245:1    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   261:10   warning  'touchScroll2' is defined but never used        no-unused-vars
+   261:23   warning  'event' is defined but never used               no-unused-vars
+   266:17   warning  '$' is not defined                              no-undef
+   288:6    warning  'simsubscreennum' is not defined                no-undef
+   293:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   294:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   295:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   296:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   297:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   298:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   299:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   300:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   301:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   303:1    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   303:12   warning  'simsubscreennum' is not defined                no-undef
+   320:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   321:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   322:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   323:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   324:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   325:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   329:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   330:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   331:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   332:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   333:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   334:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   335:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   336:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   340:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   341:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   342:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   343:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   344:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   345:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   346:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   351:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   352:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   353:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   354:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   355:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   356:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   357:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   358:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   360:3    warning  'myInt' is not defined                          no-undef
+   370:11   warning  'simsubscreennum' is not defined                no-undef
+   405:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   405:4    warning  'myInt' is not defined                          no-undef
+   406:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   407:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   408:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   409:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   410:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   411:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   412:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   414:11   warning  'simsubscreennum' is not defined                no-undef
+   423:3    warning  'myInt' is not defined                          no-undef
+   455:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   469:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   471:5    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   483:11   warning  'simsubscreennum' is not defined                no-undef
+   485:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   486:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   487:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   488:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   489:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   490:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   491:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   492:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   493:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   494:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   495:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   496:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   497:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   498:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   499:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   503:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   504:5    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   506:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   508:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   509:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   510:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   511:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   512:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   513:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   514:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   515:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   516:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   517:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   518:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   519:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   520:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   521:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   522:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   523:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   524:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   525:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   526:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   527:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   528:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   529:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   530:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   531:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   532:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   533:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   534:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   535:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   536:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   537:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   538:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   539:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   540:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   541:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   542:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   543:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   544:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   545:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   546:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   547:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   548:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   549:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   550:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   551:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   552:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   553:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   554:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   555:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   556:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   557:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   558:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   559:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   560:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   561:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   562:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   563:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   564:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   565:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   566:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   567:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   568:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   569:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   570:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   571:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   572:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   573:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   574:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   575:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   576:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   577:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   578:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   579:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   580:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   581:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   582:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   583:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   584:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   585:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   586:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   587:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   588:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   589:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   590:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   591:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   592:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   593:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   594:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   595:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   596:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   598:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   599:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   600:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   601:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   602:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   603:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   604:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   605:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   606:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   607:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   608:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   609:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   610:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   611:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   612:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   613:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   614:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   615:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   616:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   617:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   618:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   619:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   620:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   621:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   622:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   623:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   624:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   625:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   626:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   627:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   628:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   629:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   630:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   631:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   632:4    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   633:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   634:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   635:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   636:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   637:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   638:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   639:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   640:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   641:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   642:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   643:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   644:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   644:5    warning  'simsubscreennum' is not defined                no-undef
+   645:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   646:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   647:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   648:2    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   703:3    warning  'myInt' is not defined                          no-undef
+   712:4    warning  '$' is not defined                              no-undef
+   718:10   warning  'specimen' is already defined                   no-redeclare
+   720:10   warning  'specimen' is already defined                   no-redeclare
+   722:10   warning  'specimen' is already defined                   no-redeclare
+   762:4    warning  '$' is not defined                              no-undef
+   773:10   warning  'specimen' is already defined                   no-redeclare
+   775:10   warning  'specimen' is already defined                   no-redeclare
+   777:10   warning  'specimen' is already defined                   no-redeclare
+   810:3    warning  'myInt' is not defined                          no-undef
+   820:4    warning  '$' is not defined                              no-undef
+   826:3    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   828:5    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   830:5    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   830:11   warning  'specimen' is already defined                   no-redeclare
+   832:5    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   832:11   warning  'specimen' is already defined                   no-redeclare
+   834:5    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+   834:11   warning  'specimen' is already defined                   no-redeclare
+   858:4    warning  '$' is not defined                              no-undef
+   869:10   warning  'specimen' is already defined                   no-redeclare
+   871:10   warning  'specimen' is already defined                   no-redeclare
+   873:10   warning  'specimen' is already defined                   no-redeclare
+   904:3    warning  'myInt' is not defined                          no-undef
+   930:4    warning  'myInt' is not defined                          no-undef
+   944:4    warning  'myInt' is not defined                          no-undef
+   974:3    warning  '$' is not defined                              no-undef
+  1009:3    warning  '$' is not defined                              no-undef
+  1049:3    warning  '$' is not defined                              no-undef
+  1084:3    warning  '$' is not defined                              no-undef
+  1118:1    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+  1119:1    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+  1120:1    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+  1121:1    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+  1122:1    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+  1123:1    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+  1124:1    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+  1125:1    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+  1126:1    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+  1127:1    warning  Mixed spaces and tabs                           no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-brinell-hardness-test-nitk/exp-brinell-hardness-test-nitk/experiment/simulation/js/jquery-1.11.0.min.js
+  2:58     warning  'module' is not defined                                                    no-undef
+  2:73     warning  'module' is not defined                                                    no-undef
+  2:6402   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6613   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6628   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7105   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7335   warning  Empty block statement                                                      no-empty
+  2:7901   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9898   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11291  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11887  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11925  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12329  warning  Empty block statement                                                      no-empty
+  2:12892  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13204  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15003  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15241  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15389  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15727  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:16408  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18782  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18871  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18931  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20119  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20694  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20802  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:22798  warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:22800  warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:30470  warning  Empty block statement                                                      no-empty
+  2:31721  warning  Empty block statement                                                      no-empty
+  3:4465   warning  Empty block statement                                                      no-empty
+  3:7468   warning  Empty block statement                                                      no-empty
+  3:10088  warning  Empty block statement                                                      no-empty
+  3:19268  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:19395  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:21540  warning  Empty block statement                                                      no-empty
+  3:23987  warning  'f' is assigned a value but never used                                     no-unused-vars
+  3:30356  warning  Empty block statement                                                      no-empty
+  4:2384   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:4732   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:10830  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:12726  warning  Empty block statement                                                      no-empty
+  4:14025  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:14469  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:14883  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:15986  warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:16477  warning  'ActiveXObject' is not defined                                             no-undef
+  4:16861  warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:16873  warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:17172  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:19661  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:21552  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:26499  warning  Empty block statement                                                      no-empty
+  4:26576  warning  Empty block statement                                                      no-empty
+  4:31741  warning  'define' is not defined                                                    no-undef
+  4:31753  warning  'define' is not defined                                                    no-undef
+
+✖ 354 problems (0 errors, 354 warnings)
+
